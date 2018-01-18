@@ -38,6 +38,9 @@ li.showcase, span.showcase {
   margin: 12px 0;
   display: inline-block; }
 
+.long-ul {
+  min-width: 300px; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/

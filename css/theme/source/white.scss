@@ -85,6 +85,10 @@ li.showcase, span.showcase{
 
 $headingTextTransform: none;
 
+.long-ul{
+	min-width: 300px;
+}
+
 
 // Theme template ------------------------------
 @import "../template/theme";
